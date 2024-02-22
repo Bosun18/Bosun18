@@ -7,7 +7,7 @@ Junior PHP developer
 I am currently looking for a job as a junior developer
 
 *   🌍  I'm based in Russia, Voronezh reg., Pavlovsk
-*   ✉️  You can contact me at [beliy-81@mail.ru](mailto:beliy-81@mail.ru)
+*   ✉️  You can contact me at [beliy-81@mail.ru](mailto:beliy-81@mail.ru)(mailto:beliy1981s@gmail.com)
 
 ### Skills 
 <p align="left">
